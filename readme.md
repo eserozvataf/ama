@@ -1,23 +1,21 @@
-# Ask me anything!
+# Bana her şeyi sorabilirsin!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## [Soru sor](../../issues/new) &nbsp;&nbsp;&nbsp; [Sorulanları oku](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+E-mail aracılığıyla birçok soru alıyorum. Bu soruları yanıtlarıyla birlikte buraya taşıyarak herkesce okunabilmesini sağlamaya çalışıyorum!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+"Her şey" derken *her şey*den bahsediyorum. Kişisel sorular. Para. İş. Hayat. Kod. Ne olursa.
 
 -
 
-### Guidelines
+### Kılavuz
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+- Sorunuzun daha önce sorulmadığından veya yanıtlanmadığından emin olun.
+- Özlü/kısa bir başlık ve açıklama girin.
+- Medeni ve kibar olun.
 
-### Links
+### Bağlantılar
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Diğer AMAlar](https://github.com/sindresorhus/amas)
+- [Kendi AMAnızı oluşturun](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
+- [AMA nedir?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
